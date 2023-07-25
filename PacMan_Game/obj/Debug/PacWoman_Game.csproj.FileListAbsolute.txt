@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\PacMan_Game\PacMan_Game\bin\Debug\PacMan_Game.exe.config
+C:\Users\USER\source\repos\PacMan_Game\PacMan_Game\bin\Debug\PacMan_Game.exe
+C:\Users\USER\source\repos\PacMan_Game\PacMan_Game\bin\Debug\PacMan_Game.pdb
+C:\Users\USER\source\repos\PacMan_Game\PacMan_Game\obj\Debug\PacWoman_Game.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\PacMan_Game\PacMan_Game\obj\Debug\PacWoman_Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\PacMan_Game\PacMan_Game\obj\Debug\PacMan_Game.Form1.resources
+C:\Users\USER\source\repos\PacMan_Game\PacMan_Game\obj\Debug\PacMan_Game.Properties.Resources.resources
+C:\Users\USER\source\repos\PacMan_Game\PacMan_Game\obj\Debug\PacWoman_Game.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\PacMan_Game\PacMan_Game\obj\Debug\PacWoman_Game.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\PacMan_Game\PacMan_Game\obj\Debug\PacMan_Game.exe
+C:\Users\USER\source\repos\PacMan_Game\PacMan_Game\obj\Debug\PacMan_Game.pdb
